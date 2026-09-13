@@ -1,4 +1,4 @@
-[📄 View My Resume (PDF)](./Arun Natarajan.pdf)
+[📄 View My Resume (PDF)](./Resume.pdf)
 <!--
 **thisisarunn/thisisarunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
