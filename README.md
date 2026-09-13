@@ -1,4 +1,4 @@
-[![Resume](https://img.shields.io/badge/Resume-Download_PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](./Arun Natarajan.pdf)
+[📄 View My Resume (PDF)](./Arun Natarajan.pdf)
 <!--
 **thisisarunn/thisisarunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
